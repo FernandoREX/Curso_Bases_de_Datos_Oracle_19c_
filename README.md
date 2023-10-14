@@ -9,20 +9,12 @@ Este repositorio está diseñado específicamente para estudiantes, principiante
 
 * **Tutoriales paso a paso:**  Desde conceptos básicos hasta técnicas avanzadas, nuestros tutoriales detallados te guiarán a través de cada aspecto de SQL en Oracle 19c.
 * **Ejemplos prácticos:** Aprende haciendo. Encontrarás ejemplos de código listos para usar que te ayudarán a comprender mejor cómo aplicar SQL en situaciones reales.
-* **Proyectos desafiantes:** ¿Estás listo para poner a prueba tus habilidades? Nuestros proyectos te desafiarán a resolver problemas del mundo real utilizando tus conocimientos recién adquiridos.
 * **Recursos adicionales:** Enlaces a lecturas recomendadas, documentación oficial y otros recursos útiles para ampliar tu comprensión.
 
-## 💡 Por qué elegir nuestro Repositorio:
-
-Aprendizaje práctico y eficiente.
-Apoyo constante y una comunidad amigable que está lista para ayudarte.
-Actualizaciones regulares para mantenerte al día con las últimas tendencias en bases de datos y Oracle 19c.
-Así que, ¿qué estás esperando? ¡Únete a nosotros en este emocionante viaje hacia la maestría de las bases de datos con Oracle 19c! No importa si eres un principiante absoluto o si ya tienes experiencia, ¡todos son bienvenidos!
-
 🌟 ¡Comienza tu aventura ahora mismo explorando nuestro repositorio y empieza a forjar un futuro brillante en el mundo de las bases de datos y SQL! 🌟
-
-🔗 Enlace al Repositorio
 
 ¡Esperamos verte pronto en nuestro emocionante mundo de la base de datos!
 
 ¡Aprende, practica y domina! 💪✨
+
+## Indice 📃
